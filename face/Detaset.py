@@ -6,6 +6,7 @@ import os
 
 face_classifier = cv2.CascadeClassifier(
     'C:/Users/jiten/AppData/Local/Programs/Python/Python312/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml'
+
 )
 
 
