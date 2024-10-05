@@ -56,7 +56,7 @@ current_date = datetime.now().strftime("%Y_%m_%d")
 CREATE DATABASE college;
 
 ```
-  - automatic date ke hisab se Attendance table banan jayegi :
+3. automatic date ke hisab se Attendance table banan jayegi :
 
 ## Attendance Table Ko Dynamic Tarike Se Create Karna: Attendance logging code har din ke liye attendance table automatically create karega.
 
