@@ -7,9 +7,9 @@ from datetime import datetime
 
 connection = pymysql.connect(
     host='localhost',
-    user='jitendra',      
-    password='@Jitu9784',  
-    db='college'
+    user='enter user name',      
+    password='my SQL password',  
+    db='database name'
 )
 
 try:
